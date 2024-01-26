@@ -1,0 +1,14 @@
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\bin\Debug\net6.0\MovieManagement.Domain.deps.json
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\bin\Debug\net6.0\MovieManagement.Domain.runtimeconfig.json
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\bin\Debug\net6.0\MovieManagement.Domain.dll
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\bin\Debug\net6.0\MovieManagement.Domain.pdb
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.csproj.AssemblyReference.cache
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.AssemblyInfoInputs.cache
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.AssemblyInfo.cs
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.dll
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\refint\MovieManagement.Domain.dll
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.pdb
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\MovieManagement.Domain.genruntimeconfig.cache
+C:\PersonalProjects\MovieManagement\MovieManagement.Domain\obj\Debug\net6.0\ref\MovieManagement.Domain.dll

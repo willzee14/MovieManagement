@@ -1,0 +1,17 @@
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\bin\Debug\net6.0\MovieManagement.Infrastructure.deps.json
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\bin\Debug\net6.0\MovieManagement.Infrastructure.runtimeconfig.json
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\bin\Debug\net6.0\MovieManagement.Infrastructure.dll
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\bin\Debug\net6.0\MovieManagement.Infrastructure.pdb
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\bin\Debug\net6.0\MovieManagement.Domain.dll
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\bin\Debug\net6.0\MovieManagement.Domain.pdb
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\MovieManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\MovieManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\MovieManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\MovieManagement.Infrastructure.AssemblyInfo.cs
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\MovieManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\MovieManagement.Infrastructure.csproj.CopyComplete
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\MovieManagement.Infrastructure.dll
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\refint\MovieManagement.Infrastructure.dll
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\MovieManagement.Infrastructure.pdb
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\MovieManagement.Infrastructure.genruntimeconfig.cache
+C:\PersonalProjects\MovieManagement\MovieManagement.Infrastructure\obj\Debug\net6.0\ref\MovieManagement.Infrastructure.dll
